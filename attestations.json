@@ -1,0 +1,18 @@
+[
+        {
+          "control_id": "aws-foundations-cis-1.1",
+          "updated": "2020-11-01",
+          "updated_by": "John Doe, ISSO",
+          "frequency": "Annually",
+          "frequency_start_date": "YYYY-MM-DD",
+          "explanation": "statement from the ISSO confirming that they've done whatever the check/fix text said and why/whynot its all good/bad"
+        },
+        {
+          "control_id": "V-blah2",
+          "updated": "YYYY-MM-DD",
+          "updated_by": "John Doe, ISSO",
+          "frequency": "Monthly",
+          "frequency_start_date": "YYYY-MM-DD",
+          "explanation": "statement from the ISSO confirming that they've done whatever the check/fix text said and why/whynot its all good/bad"
+        }
+      ]
